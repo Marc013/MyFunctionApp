@@ -4,6 +4,9 @@
 # Azure Functions localsettings file
 local.settings.json
 
+# Azure Function ARM deployment template
+profile.arm.json
+
 # User-specific files
 *.suo
 *.user
